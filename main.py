@@ -16,9 +16,7 @@ st.set_page_config(
 # Available models
 AVAILABLE_MODELS = [
     'llama3.1:latest',
-    'mistral:latest',
-    'gemma:latest',
-    'phi:latest'
+
 ]
 
 # Session state initialization
